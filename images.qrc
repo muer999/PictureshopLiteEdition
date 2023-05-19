@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/clear.png</file>
+        <file>images/close.png</file>
+        <file>images/save2.png</file>
+        <file>images/saveas.png</file>
+        <file>images/help.png</file>
+        <file>images/large.png</file>
+        <file>images/left.png</file>
+        <file>images/mesage.png</file>
+        <file>images/open.png</file>
+        <file>images/Qt.png</file>
+        <file>images/right.png</file>
+        <file>images/save.png</file>
+        <file>images/select.png</file>
+        <file>images/small.png</file>
+        <file>images/stop.png</file>
+        <file>images/toLeft.png</file>
+        <file>images/toRight.png</file>
+        <file>images/logo.png</file>
+        <file>images/quit.png</file>
+        <file>images/showDCTAction.png</file>
+        <file>images/showFFTAction.png</file>
+        <file>images/changeHeadAction.png</file>
+        <file>images/beautyAction.png</file>
+        <file>images/stitchingAction.png</file>
+        <file>images/smoothingAction.png</file>
+        <file>images/histEqualizationAction.png</file>
+        <file>images/sharpenAction.png</file>
+        <file>images/convertColorSpaceAction.png</file>
+        <file>images/rotateAction.png</file>
+        <file>images/resizeAction.png</file>
+        <file>images/changeBackgroundAction.png</file>
+        <file>images/histPullAction.png</file>
+        <file>images/geometricCalibrationAction.png</file>
+        <file>images/addTextAction.png</file>
+        <file>images/fuzzyRecoveryAction.png</file>
+        <file>images/save3.png</file>
+        <file>images/save as.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/leftspin.png</file>
+        <file>images/rightspin.png</file>
+        <file>images/open2.png</file>
+        <file>images/right2.png</file>
+        <file>images/left2.png</file>
+        <file>images/reloadAction.png</file>
+        <file>images/stitchingAction2.png</file>
+        <file>images/logo2.png</file>
+        <file>images/save4.png</file>
+        <file>images/close2.png</file>
+        <file>images/saveas4.png</file>
+        <file>images/help2.png</file>
+        <file>images/help3.png</file>
+    </qresource>
+</RCC>

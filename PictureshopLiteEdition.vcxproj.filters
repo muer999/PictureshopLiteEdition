@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="advancedimageprocessing\addtextwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\advancedimageprocessing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\beautywidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\changebackgroundwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\changeheadwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\convertcolorspacewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\fuzzyrecoverywidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\geocalwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\histequalizationwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\histogramwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\histpullwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow\qabout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imageviewer\qimageviewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\resizewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\rotatewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\sharpenwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\showdctwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\showfftwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\smoothingwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advancedimageprocessing\stitchingwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="advancedimageprocessing\addtextwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="advancedimageprocessing\advancedimageprocessing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="advancedimageprocessing\beautywidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\changebackgroundwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\changeheadwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\convertcolorspacewidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\fuzzyrecoverywidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\geocalwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\histequalizationwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\histogramwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\histpullwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow\qabout.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="imageviewer\qimageviewer.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\resizewidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\rotatewidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\sharpenwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\showdctwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\showfftwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\smoothingwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="advancedimageprocessing\stitchingwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Qt.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\add.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\addTextAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="as.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\beautyAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\changeBackgroundAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\changeHeadAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\clear.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\convertColorSpaceAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\fuzzyRecoveryAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\geometricCalibrationAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\help.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\histEqualizationAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\histPullAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="images.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\large.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\left.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\mesage.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\quit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\resizeAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\right.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\rotateAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\saveas.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\select.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\sharpenAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\showDCTAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\showFFTAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\small.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\smoothingAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\stitchingAction.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\stop.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\toLeft.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\toRight.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
