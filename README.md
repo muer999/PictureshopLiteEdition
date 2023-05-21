@@ -1,12 +1,6 @@
-# QImageViewer
-#### image viewer for Qt  
-Qt version >= 5.0  
-  
-#### function:
-* open and close image
-* show a image
-* switch last/next image in current directory
-* enlarge/lessen a image
-* spin a image
-* delete a image
-* save as a new image
+（1）图像基本操作：不同格式图像的读入与存盘、文字叠加、不同彩色空间的转换、图像的DCT及FFT变换等；
+（2）图像增强：包括直方图拉升（线性和非线性）、直方图均衡、平滑与锐化（采用不同的滤镜），美颜；
+（3）图像恢复：几何操作（如旋转、缩放、投影校正等）、模糊恢复（如运动模糊消除）；
+（4）图像合成：实现换头、换背景、图像拼接等功能。
+
+Qt version：5.12
